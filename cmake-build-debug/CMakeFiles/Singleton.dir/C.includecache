@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1/CLionProjects/Singleton/main.c
+pthread.h
+-
+semaphore.h
+-
+stdio.h
+-
+stdlib.h
+-
+
